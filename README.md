@@ -1,3 +1,3 @@
 # IDS-project-
-omar is hear 
-mother F
+omar is not hear 
+mother Father
