@@ -1,0 +1,10 @@
+Attack,# training packets,# normal test packets,# malicious test packets
+OS Scan,6000,13500,1499
+Fuzzing,1200,9000,999
+Video Inj.,4000,9000,999
+ARP,6000,13500,1499
+Wiretap,4000,9000,999
+SSDP F.,6000,13500,1499
+SYN DoS,1200,9000,999
+SSL R.,6000,13500,1499
+Mirai,6000,9000,999
